@@ -18,7 +18,7 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <br>-Sustaining Replayability
 <br>-Skill outweighs luck
 <p style="font-size: 28px;"><b>My Top 5 Roguelikes</b></p>
-<a href="(https://www.supergiantgames.com/games/hades-ii/)"="_blank">1. Hades II</a>
+<a href="[href](https://www.supergiantgames.com/games/hades-ii/)">1. Hades II</a>
 <br><a href="(https://www.playbalatro.com/)">2. Balatro</a>
 <br><a href="(https://www.nicalis.com/games/thebindingofisaacab+)">3. The Binding Of Isaac: Rebirth</a>
 <br><a href="(https://www.megacrit.com/games/)">4. Slay The Spire 2</a>
