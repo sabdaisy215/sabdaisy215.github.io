@@ -1,6 +1,4 @@
-<img src="![Fernanndandadadadad](https://github.com/user-attachments/assets/678b09dd-6488-45b2-958f-94d8f7e268d6)
-" alt="Fernando My Sweet Cat">
-
+<img src="![Fernanndandadadadad](https://github.com/user-attachments/assets/95217aa8-6673-4e75-9902-2c665914ac31)">
 <p style="font-size: 25px;"><b>Bio:</b></p>
 18 year old game design student specializing in art, but interested in coding. I own 3 orange cats and love video games (who coulda guessed?). Interested in all things media and art, but you could get me to read a few books.
 <br>
