@@ -1,5 +1,5 @@
 
-<img src="Fernanndandadadadad.jpg" alt="Fernando" height="65">
+<img src="Fernanndandadadadad.jpg" alt="Fernando" height="150">
 
 <p style="font-size: 25px;"><b>Bio:</b></p>
 18 year old game design student specializing in art, but interested in coding. I own 3 orange cats and love video games (who coulda guessed?). Interested in all things media and art, but you could get me to read a few books.
@@ -18,8 +18,8 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <br>-Sustaining Replayability
 <br>-Skill outweighs luck
 <p style="font-size: 28px;"><b>My Top 5 Roguelikes</b></p>
-<a href="[url](https://www.supergiantgames.com/games/hades-ii/)">1. Hades II</a>
-<br><a href="[url](https://www.playbalatro.com/)">2. Balatro</a>
-<br><a href="[url](https://www.nicalis.com/games/thebindingofisaacab+)">3. The Binding Of Isaac: Rebirth</a>
-<br><a href="[url](https://www.megacrit.com/games/)">4. Slay The Spire 2</a>
-<br><a href="[url](https://riskofrain.2k.com/)">5. Risk Of Rain 2</a>
+<a href="(https://www.supergiantgames.com/games/hades-ii/)">1. Hades II</a>
+<br><a href="(https://www.playbalatro.com/)">2. Balatro</a>
+<br><a href="(https://www.nicalis.com/games/thebindingofisaacab+)">3. The Binding Of Isaac: Rebirth</a>
+<br><a href="(https://www.megacrit.com/games/)">4. Slay The Spire 2</a>
+<br><a href="(https://riskofrain.2k.com/)">5. Risk Of Rain 2</a>
