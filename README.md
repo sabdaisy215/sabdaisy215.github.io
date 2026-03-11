@@ -1,4 +1,5 @@
-<img src="![Fernanndandadadadad](https://github.com/user-attachments/assets/95217aa8-6673-4e75-9902-2c665914ac31)">
+<img src="![Fernanndandadadadad](https://github.com/user-attachments/assets/6d20ad5f-51d9-4825-bbe4-d4064f10182d)
+" alt="My picture">
 <p style="font-size: 25px;"><b>Bio:</b></p>
 18 year old game design student specializing in art, but interested in coding. I own 3 orange cats and love video games (who coulda guessed?). Interested in all things media and art, but you could get me to read a few books.
 <br>
