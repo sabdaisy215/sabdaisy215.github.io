@@ -22,7 +22,6 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <br>-Skill outweighs luck
 <br>
 <p style="font-size: 28px;"><h1>My Top 5 Roguelikes</h1></p>
-<br>
 <div class="box">
     <a href="https://www.supergiantgames.com/games/hades-ii/">1. Hades II</a>
 <br><a href="https://www.playbalatro.com/">2. Balatro</a>
