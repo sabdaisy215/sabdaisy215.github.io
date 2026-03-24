@@ -10,7 +10,7 @@
 <br>
 <p style="font-size: 28px;"><h1>Roguelikes:</h1></p>
 <p style="font-size: 25px;"><h2>What is a Roguelike?</h2></p>
-A Roguelike is a genre of videogames that is defined by the randomization of each run, you begin a game, go in, die, and do it all again with slight differences in the world around you or items you can find. It's one of the hottest current genres being pushed out largely by indie studios in the last few years. It's marked by the idea of 'runs' and metaprogress throughout the games, giving the player a reason to keep playing and push forward.
+<div class="box">A Roguelike is a genre of videogames that is defined by the randomization of each run, you begin a game, go in, die, and do it all again with slight differences in the world around you or items you can find. It's one of the hottest current genres being pushed out largely by indie studios in the last few years. It's marked by the idea of 'runs' and metaprogress throughout the games, giving the player a reason to keep playing and push forward.</div>
 <p style="font-size: 25px;"><h2>Good VS Bad Roguelikes</h2></p>
 A good Roguelike will make you feel like your playing chess, thinking of future options, possibilities, synergies, and fights, all to build you to the climax of the game. The repetition is fun and rewarding, rather than frustrating and grating. Players in a good roguelike are more likely to.
 <p style="font-size: 25px;"><h2>Essential Mechanics of a Good Roguelike</h2></p>
