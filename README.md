@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" href="style.css"/>
+<head>
+
 <img src="Fernanndandadadadad.jpg" alt="Fernando" height="215">
 <body style="background-color: darkgray;">
 <p style="font-size: 25px;"><h1 style="color:blue;">Bio:</h1></p>
