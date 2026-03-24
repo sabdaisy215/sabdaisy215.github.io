@@ -4,15 +4,9 @@ body {
 
 h1 {
   color: blue;
+   font-family: "Georgia", Times, serif;
 }
 h2 {
   color: LightSlateGray;
-}
-
-h2 {
-  font-family: "Avantgarde", Times, serif;
-}
-
-h1 {
- font-family: "Georgia", Times, serif;
+    font-family: "Avantgarde", Times, serif;
 }
