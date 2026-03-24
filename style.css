@@ -10,7 +10,9 @@ h2 {
     font-family: "Avantgarde", Times, serif;
 }
 h3 {
-
+  color: Black;
+   font-family: "Arial", Times, serif;
+  font-size: 5px;
 }
 
 .box {
