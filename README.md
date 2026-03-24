@@ -3,7 +3,7 @@
 <head>
 
 <img src="Fernanndandadadadad.jpg" alt="Fernando" height="215">
-<body style="background-color: darkgray;">
+<body style="background-color: dimgray;">
 <p style="font-size: 25px;"><h1 style="color:blue;">Bio:</h1></p>
 18 year old game design student specializing in art, but interested in coding. I own 3 orange cats and love video games (who coulda guessed?). Interested in all things media and art, but you could get me to read a few books.
 <br>
