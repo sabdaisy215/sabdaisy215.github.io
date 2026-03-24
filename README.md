@@ -1,6 +1,6 @@
 <img src="Fernanndandadadadad.jpg" alt="Fernando" height="215">
 <body style="background-color: darkgray;">
-<p style="font-size: 25px;"><b>Bio:</b></p>
+<p style="font-size: 25px;"><h1 style="color:blue;">Bio:</h1></p>
 18 year old game design student specializing in art, but interested in coding. I own 3 orange cats and love video games (who coulda guessed?). Interested in all things media and art, but you could get me to read a few books.
 <br>
 <br>
@@ -16,7 +16,8 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <br>-Meaningful Metaprogression
 <br>-Sustaining Replayability
 <br>-Skill outweighs luck
-<p style="font-size: 28px;"><b>My Top 5 Roguelikes</b></p>
+<br>
+<p style="font-size: 28px;"><h1 style="color:blue;">My Top 5 Roguelikes</h1></p>
 <a href="https://www.supergiantgames.com/games/hades-ii/">1. Hades II</a>
 <br><a href="https://www.playbalatro.com/">2. Balatro</a>
 <br><a href="https://www.nicalis.com/games/thebindingofisaacab+">3. The Binding Of Isaac: Rebirth</a>
