@@ -1,4 +1,4 @@
-
+<link rel=”stylesheet” href=”filename.css”>
 <img src="Fernanndandadadadad.jpg" alt="Fernando" height="215">
 
 <p style="font-size: 25px;"><b>Bio:</b></p>
