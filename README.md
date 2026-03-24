@@ -28,5 +28,9 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <br><a href="https://www.megacrit.com/games/">4. Slay The Spire 2</a>
 <br><a href="https://riskofrain.2k.com/">5. Risk Of Rain 2</a>
 <div class="box">
-    This is my box content.
+    <a href="https://www.supergiantgames.com/games/hades-ii/">1. Hades II</a>
+<br><a href="https://www.playbalatro.com/">2. Balatro</a>
+<br><a href="https://www.nicalis.com/games/thebindingofisaacab+">3. The Binding Of Isaac: Rebirth</a>
+<br><a href="https://www.megacrit.com/games/">4. Slay The Spire 2</a>
+<br><a href="https://riskofrain.2k.com/">5. Risk Of Rain 2</a>
 </div>
