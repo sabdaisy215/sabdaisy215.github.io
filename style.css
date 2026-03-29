@@ -1,29 +1,71 @@
 body {
   background-color: FloralWhite;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6; /* Makes text easier to read */
 }
+
+.container {
+    max-width: 800px;
+    margin: 0 auto; /* Centers the website content */
+    padding: 40px;
+}
+
+.profile-img {
+    height: 215px;
+    border-radius: 10px; /* Optional: rounds the corners of your photo */
+    display: block;
+    margin-bottom: 20px;
+}
+
 h1 {
   color: blue;
-   font-family: "Georgia", Times, serif;
+  font-family: "Georgia", Times, serif;
+  border-bottom: 2px solid blue; /* Adds a nice underline to main headers */
+  padding-bottom: 10px;
 }
+
 h2 {
   color: RoyalBlue;
-    font-family: "Avantgarde", Times, serif;
+  font-family: "Avantgarde", "Arial", sans-serif;
+  margin-top: 30px;
 }
+
+/* Changed from 1px to 18px so it's actually visible! */
 h3 {
   color: Black;
-   font-family: "Arial", Times, serif;
-  font-size: 1px;
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+}
+
+.bio-text {
+    font-size: 20px;
+}
+
+.mechanics-list {
+    font-size: 18px;
+    list-style-type: square;
 }
 
 .box {
-    width: 300px;
-    height: 150px;
-    
-    padding: 20px;
-    
-    border: 2px gray;
-    
-    margin: 5px;
-    
-    background-color: lightblue; 
+    width: 350px;
+    padding: 10px 20px;
+    border: 2px solid gray; /* Fixed: Added 'solid' */
+    margin: 20px 0;
+    background-color: lightblue;
+    border-radius: 8px;
+}
+
+.box ol {
+    padding-left: 20px;
+}
+
+.box a {
+    text-decoration: none;
+    color: #0044cc;
+    font-weight: bold;
+}
+
+.box a:hover {
+    text-decoration: underline;
 }
