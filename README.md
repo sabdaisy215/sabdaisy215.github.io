@@ -31,17 +31,17 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 </div>
 <div class="container">
   <div class="block">
-    <h3>Title 1</h3>
+    <h3>Slay The Spire 2 release metrics: Outperformed many triple A titles</h3>
     <img src="https://www.scania.org/wp-content/uploads/2018/10/article-10-2.jpg">
     <p>Some text</p>
   </div>
   <div class="block">
-    <h3>Title 2</h3>
+    <h3>Roguelike Industry Definition</h3>
     <img src="https://avatarfiles.alphacoders.com/121/121594.jpg">
     <p>Some text</p>
   </div>
   <div class="block">
-   <h3>Title 2</h3>
+   <h3>Upcoming Roguelike release titles</h3>
     <img src="https://i.imgur.com/8G3NXcW.gif">
     <p>Some text</p>
   </div>
