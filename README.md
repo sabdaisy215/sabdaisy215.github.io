@@ -17,8 +17,7 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <a href="https://en.wikipedia.org/wiki/Procedural_generation">-Procedural Generation</a>
 <br>-High stakes combat
 <br>-Makes losing a learning experience
-<br>-Meaningful Metaprogression
-<br>-Sustaining Replayability
+<br>-Meaningful <a href="https://www.larksuite.com/en_us/topics/gaming-glossary/meta-progression">Metaprogression</a>
 <br>-Skill outweighs luck
 <br>
 <p style="font-size: 28px;"><h1>My Top 3 Roguelikes</h1></p>
