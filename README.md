@@ -14,7 +14,7 @@ A Roguelike is a genre of videogames that is defined by the randomization of eac
 <p style="font-size: 25px;"><h2>Good VS Bad Roguelikes</h2></p>
 A good Roguelike will make you feel like your playing chess, thinking of future options, possibilities, synergies, and fights, all to build you to the climax of the game. The repetition is fun and rewarding, rather than frustrating and grating. Players in a good roguelike are more likely to.
 <p style="font-size: 25px;"><h2>Essential Mechanics of a Good Roguelike</h2></p>
--Procedural Generation
+<a href="https://en.wikipedia.org/wiki/Procedural_generation">-Procedural Generation</a>
 <br>-High stakes combat
 <br>-Makes losing a learning experience
 <br>-Meaningful Metaprogression
