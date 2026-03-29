@@ -2,7 +2,7 @@
 <link rel="stylesheet" href="style.css"/>
 <head>
 
-<img src="Fernanndandadadadad.jpg" alt="Fernando" height="215"><img src="Fernanndandadadadad.jpg" alt="Fernando" height="215"><img src="Fernanndandadadadad.jpg" alt="Fernando" height="215">
+<img src="Fernanndandadadadad.jpg" alt="Fernando" height="215"><img src="79373272995__B50AD3EF-23F3-4835-A610-B87615BD46A6.jpeg" alt="Frank" height="215"><img src="IMG_7665.jpeg" alt="Fiona" height="215">
 <body style="background-color: FloralWhite;">
 <p style="font-size: 25px;"><h1>Bio:</h1></p>
 18 year old game design student specializing in art, but interested in coding. I own 3 orange cats and love video games (who coulda guessed?). Interested in all things media and art, but you could get me to read a few books.
