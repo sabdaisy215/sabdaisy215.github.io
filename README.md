@@ -29,3 +29,20 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <br><a href="https://www.megacrit.com/games/">4. Slay The Spire 2</a>
 <br><a href="https://riskofrain.2k.com/">5. Risk Of Rain 2</a>
 </div>
+<div class="container">
+  <div class="block">
+    <h3>Title 1</h3>
+    <img src="https://www.scania.org/wp-content/uploads/2018/10/article-10-2.jpg">
+    <p>Some text</p>
+  </div>
+  <div class="block">
+    <h3>Title 2</h3>
+    <img src="https://avatarfiles.alphacoders.com/121/121594.jpg">
+    <p>Some text</p>
+  </div>
+  <div class="block">
+   <h3>Title 2</h3>
+    <img src="https://i.imgur.com/8G3NXcW.gif">
+    <p>Some text</p>
+  </div>
+</div>
