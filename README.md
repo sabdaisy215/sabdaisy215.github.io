@@ -25,11 +25,11 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <div class="container">
   <div class="block">
     <h3>Slay The Spire 2</h3>
- <p><a href="(https://www.megacrit.com/)"><img src="STS2.jpg" alt="SlayTheSpire2" height="180"></a></p>  </div>
+ <a href="(https://www.megacrit.com/)"><img src="STS2.jpg" alt="SlayTheSpire2" height="180"></a>  </div>
   <div class="block">
     <h3>Balatro</h3>
-    <p><a href="(https://www.playbalatro.com/)"><img src="Balatro.jpeg" alt="Balatro" height="180"></a></p>  </div>
+    <a href="(https://www.playbalatro.com/)"><img src="Balatro.jpeg" alt="Balatro" height="180"></a> </div>
   <div class="block">
    <h3>Hades II</h3>
-    <p><a href="(https://www.supergiantgames.com/games/hades-ii/)"><img src="Hades2.png" alt="Hades2" height="180"></a></p>  </div>
+    <a href="(https://www.supergiantgames.com/games/hades-ii/)"><img src="Hades2.png" alt="Hades2" height="180"></a>  </div>
 </div>
