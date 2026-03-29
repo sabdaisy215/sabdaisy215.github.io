@@ -26,13 +26,13 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
   <div class="block">
     <h3>Slay The Spire 2</h3>
    <img src="STS2.jpg" alt="SlayTheSpire2" height="180">  </div>
-    <p>Outperformed many triple A titles releases, and garnered a large stable playerbase never seen from previous roguelike release.</p>
+    <p></p>
   <div class="block">
     <h3>Balatro</h3>
    <img src="Balatro.jpeg" alt="Balatro" height="180">  </div>
-    <p>Another deck building roguelike, takes many blackjack elements with an addicting experience combining jokers.</p>
+    <p></p>
   <div class="block">
    <h3>Hades II</h3>
     <img src="Hades2.png" alt="Hades2" height="180">  </div>
-    <p>Sequel to Hades, nominated in several categories of the 2025 Game Awards, excellent follow up to the first.</p>
+    <p></p>
 </div>
