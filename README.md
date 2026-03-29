@@ -29,10 +29,10 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
     <p>Outperformed many triple A titles releases, and garnered a large stable playerbase never seen from previous roguelike release.</p>
   <div class="block">
     <h3>Balatro</h3>
-   <img src="Balatro.jpg" alt="Balatro" height="180">  </div>
+   <img src="Balatro.jpeg" alt="Balatro" height="180">  </div>
     <p>Another deck building roguelike, takes many blackjack elements with an addicting experience combining jokers.</p>
   <div class="block">
    <h3>Hades II</h3>
-    <img src="Hades2.jpg" alt="Hades2" height="180">  </div>
+    <img src="Hades2.png" alt="Hades2" height="180">  </div>
     <p></p>
 </div>
