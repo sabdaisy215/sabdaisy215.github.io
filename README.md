@@ -25,14 +25,14 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
 <div class="container">
   <div class="block">
     <h3>Slay The Spire 2</h3>
-    <img src="https://www.scania.org/wp-content/uploads/2018/10/article-10-2.jpg">  </div>
+   <img src="STS2.jpg" alt="SlayTheSpire2" height="180">  </div>
     <p>Outperformed many triple A titles releases, and garnered a large stable playerbase never seen from previous roguelike release.</p>
   <div class="block">
     <h3>Balatro</h3>
-    <img src="https://avatarfiles.alphacoders.com/121/121594.jpg">  </div>
+   <img src="Balatro.jpg" alt="Balatro" height="180">  </div>
     <p>Another deck building roguelike, takes many blackjack elements with an addicting experience combining jokers.</p>
   <div class="block">
    <h3>Hades II</h3>
-    <img src="https://i.imgur.com/8G3NXcW.gif">  </div>
+    <img src="Hades2.jpg" alt="Hades2" height="180">  </div>
     <p></p>
 </div>
