@@ -34,5 +34,5 @@ A good Roguelike will make you feel like your playing chess, thinking of future 
   <div class="block">
    <h3>Hades II</h3>
     <img src="Hades2.png" alt="Hades2" height="180">  </div>
-    <p></p>
+    <p>Sequel to Hades, nominated in several categories of the 2025 Game Awards, excellent follow up to the first.</p>
 </div>
